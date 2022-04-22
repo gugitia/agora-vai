@@ -1,0 +1,9 @@
+html {
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+body, .di {
+    margin-top: 100px;
+}
